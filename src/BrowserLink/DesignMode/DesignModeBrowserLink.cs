@@ -1,5 +1,5 @@
-﻿using Microsoft.Html.Core.Tree.Nodes;
-using Microsoft.Html.Editor.Document;
+﻿using Microsoft.WebTools.Languages.Html.Tree.Nodes;
+using Microsoft.WebTools.Languages.Html.Editor.Document;
 using Microsoft.VisualStudio.Text;
 using Microsoft.VisualStudio.Web.BrowserLink;
 using System;
